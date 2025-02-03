@@ -1,0 +1,20 @@
+{
+  "name": "mqrpcsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "backoff": "^2.5.0",
+    "debug": "^4.3.4",
+    "eventstapler": "^1.0.3",
+    "serialize-error": "^8.1.0",
+    "uuid": "^8.3.2"
+  }
+}
